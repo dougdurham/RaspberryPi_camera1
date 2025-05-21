@@ -1,0 +1,6 @@
+opencv-python
+numpy
+picamera2
+openai
+Pillow
+requests
